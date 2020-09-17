@@ -11,6 +11,9 @@ The format for the possible queries which can be entered are as follow:
 
 Good examples of phrases that will currently trigger lexical and target gaps for each relation are below:
 exists(cat) - Lexical Gap
+
 exists(bat) - Target Gap
+
 relation(to the left of,pants,bat) - Lexical Gap
+
 relation(to the right of,pants,bat) - Target Gap

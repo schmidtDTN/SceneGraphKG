@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="pants"/>
+<node id="stadium"/>
+<node id="jersey"/>
+<node id="hand"/>
+<node id="chairs"/>
+<node id="lady"/>
+<node id="jersey_2"/>
+<node id="grass"/>
+<node id="bat"/>
+<node id="bat_3"/>
+<node id="shoe"/>
+<node id="mustache"/>
+<node id="man"/>
+<node id="cap"/>
+<node id="hand_4"/>
+<node id="baseball"/>
+<node id="spectator"/>
+<node id="players"/>
+<node id="shoes"/>
+<node id="player"/>
+<node id="wall"/>
+<node id="hair"/>
+<node id="cap_5"/>
+<node id="shorts"/>
+<node id="hat"/>
+<node id="shirt"/>
+<node id="bat_2"/>
+<node id="hand_3"/>
+<node id="cap_4"/>
+<node id="jersey_1"/>
+<edge source="pants" target="bat" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="pants" target="bat_2" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="pants" target="shorts" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="pants" target="hand_3" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="pants" target="shoe" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="pants" target="lady" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="pants" target="cap_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="pants" target="baseball" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jersey" target="shorts" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jersey" target="jersey_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jersey" target="lady" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jersey" target="cap_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jersey" target="hair" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hand" target="lady" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hand" target="jersey_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="chairs" target="stadium" id="0">
+  <data key="d0">in</data>
+</edge>
+<edge source="lady" target="pants" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="lady" target="jersey" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="lady" target="hand" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="lady" target="jersey_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="bat" target="player" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="bat" target="bat_2" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="bat" target="shoe" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="bat" target="pants" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="shoe" target="bat_2" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="shoe" target="bat" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="shoe" target="player" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="shoe" target="shoes" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="shoe" target="pants" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="mustache" target="player" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man" target="jersey_1" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man" target="players" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cap" target="hat" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cap" target="spectator" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="baseball" target="pants" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="baseball" target="cap_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="baseball" target="jersey_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="spectator" target="players" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="spectator" target="cap" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="players" target="man" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="players" target="spectator" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="players" target="shirt" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="players" target="player" id="0">
+  <data key="d0">talking to</data>
+</edge>
+<edge source="shoes" target="shoe" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="player" target="cap" id="0">
+  <data key="d0">wearing</data>
+</edge>
+<edge source="player" target="hat" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="player" target="shoe" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="player" target="mustache" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="player" target="jersey_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="player" target="bat" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="player" target="shoes" id="0">
+  <data key="d0">wearing</data>
+</edge>
+<edge source="hair" target="jersey" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="hair" target="jersey_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="shorts" target="jersey" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="shorts" target="pants" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="shorts" target="jersey_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hat" target="player" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="hat" target="cap" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="shirt" target="jersey_1" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="shirt" target="players" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="bat_2" target="bat" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="bat_2" target="pants" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="bat_2" target="shoe" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hand_3" target="pants" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="hand_3" target="jersey_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hand_3" target="cap_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cap_4" target="pants" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cap_4" target="jersey_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cap_4" target="jersey" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cap_4" target="baseball" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cap_4" target="hand_3" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="jersey_1" target="shorts" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="jersey_1" target="shirt" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jersey_1" target="hair" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="jersey_1" target="baseball" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="jersey_1" target="hand" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="jersey_1" target="jersey" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="jersey_1" target="hand_3" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="jersey_1" target="player" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="jersey_1" target="man" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jersey_1" target="lady" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="jersey_1" target="cap_4" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+</graph></graphml>

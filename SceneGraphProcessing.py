@@ -58,8 +58,7 @@ def existenceQuery(queryContents: str, sceneGraph):
     # Again, not particularly efficient but hey.
     for currentNode in sceneGraph:
         # For each node, strip off the "_#" if present - see assumptions at top of file
-        regexPattern = r'_\d+'
-        nodeObjectName = re.sub(regexPattern, '', currentNode)
+        nodeObjectName = stripOffUnderscoreNumber(currentNode)
         # If the name of the object matches the target of the query, flag as such and set the flag to true
         if nodeObjectName == queriedObject:
             print("Queried object found: " + currentNode)
@@ -74,9 +73,51 @@ def existenceQuery(queryContents: str, sceneGraph):
     if len(listOfMatchingNodes) > 1:
         print("WARNING: Potential Target Gap identified.  Multiple nodes match the queried object.  The list of these "
               "objects is as follows: " + str(listOfMatchingNodes))
+    if objectFound == True and len(listOfMatchingNodes) == 1:
+        print("SUCCESS! " + queriedObject + " exists in the graph!")
 
+# Pants to the right of bat
 def relationQuery(queryContents: str, sceneGraph):
-    pass
+    # Set a flag if the relation is found, and a list to store all of the found relations
+    relationFound = False
+    relationsMatchingQuery = []
+    # Break up the query into its respective parts
+    queryElements = queryContents.split(',')
+    queryRelation = queryElements[0]
+    querySource = queryElements[1]
+    queryTarget = queryElements[2].split(')')[0]
+    # Iterate through the scene graph to find the source node
+    for currentNode in sceneGraph:
+        # For each node, strip off the "_#" if present - see assumptions at top of file
+        nodeObjectName = stripOffUnderscoreNumber(currentNode)
+        # If the name of the object matches the source object in the query, see if the desired relationship is found
+        if nodeObjectName == querySource:
+            # Get the edges going out of the source node
+            nodeOutEdges = sceneGraph.out_edges(currentNode, data="label")
+            # Go through all of the edges found and get the source and target nodes as well as the edge label
+            for source, target, edgeLabel in nodeOutEdges:
+                strippedTarget = stripOffUnderscoreNumber(target)
+                # the source equivalence should always be true because of the prior check
+                if strippedTarget == queryTarget and edgeLabel == queryRelation:
+                    relationFound = True
+                    relationsMatchingQuery.append((source, edgeLabel, target))
+                    print(source + " " + edgeLabel + " " + target)
+    # If nothing matching found, raise a lexical gap
+    if relationFound == False:
+        print("WARNING: Lexical Gap identified - the relation queried " + querySource + " " + queryRelation + " "
+              + queryTarget + " does not appear in the graph.")
+    # If multiple nodes found that match the queried term, raise a target gap
+    if len(relationsMatchingQuery) > 1:
+        print("WARNING: Potential Target Gap identified.  Multiple node-edges sets match the queried relation.  " +
+              "The list of these relations is as follows: " + str(relationsMatchingQuery))
+
+
+# Strip off the "_#" at the end of an object name
+def stripOffUnderscoreNumber(textToStrip):
+    # For each node, strip off the "_#" if present - see assumptions at top of file
+    regexPattern = r'_\d+'
+    strippedText = re.sub(regexPattern, '', textToStrip)
+    return strippedText
 
 
 def main():

@@ -6,7 +6,11 @@ Also, it checks for context gaps on graph load and returns a list of the nodes w
 
 The format for the possible queries which can be entered are as follow:
     exists(objectName) - queries the existence of an object, equivalent to asking "is there a objectName?"  Format for asking about the existence of a bat would be: exists(bat)
-
-    relation(relationString,object1Name,object2Name) - queries whether the two objects in question are connected by an edge with a label that EXACTLY matches the relation string.  i.e. if you want to ask if player and hat have a "to the left of" edge connecting them, the format would be:
+    relation(relationString,object1Name,object2Name) - queries whether the two objects in question are connected by an edge with a label that EXACTLY matches the relation string.  i.e. if you want to ask "is a player to the left of a hat?", the format would be:
     relation(to the left of,player,hat)
 
+Good examples of phrases that will currently trigger lexical and target gaps for each relation are below:
+exists(cat) - Lexical Gap
+exists(bat) - Target Gap
+relation(to the left of,pants,bat) - Lexical Gap
+relation(to the right of,pants,bat) - Target Gap

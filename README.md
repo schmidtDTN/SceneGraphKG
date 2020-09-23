@@ -38,3 +38,28 @@ relation(to the left of,spectator,?) - returns nothing
 relation(to the left of,?,spectator) - returns an answer
 
 relation(to the right of,?,spectator) - returns nothing
+
+
+09-23-2020: Added attribute existence querying
+Examples:
+
+attribute(pink,shorts) - Returns that the object "shorts" has the attribute "pink"
+
+attribute(black,shorts) - Returns that the object "shorts" does not have the attribute "black"
+
+attribute(big,shorts) - Returns a Lexical Gap because "big" does not exist in the graph
+
+09-23-2020: Added non-yes/no queries for attributes
+Examples:
+
+attribute(?,shorts) - Returns that "shorts" has the attribute "pink"
+
+attribute(?,cap) - Raises a Target Gap because there are two caps that have different attributes; POTENTIALLY INTERESTING FOR VQA?
+
+attribute(?,lady) - Returns that "lady" has no attributes.
+
+attribute(red,?) - Returns that "wall" and "shirt" are associated with the attribute "red"
+
+attribute(big,?) - Returns a Lexical Gap because "big" does not exist in the graph.
+
+09-23-2020: Now able to ask multiple queries without rerunning the system; just enter "q", "exit", or "quit" to end the run.

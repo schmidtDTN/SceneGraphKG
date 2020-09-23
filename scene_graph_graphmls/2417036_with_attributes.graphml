@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="id" attr.type="string"/>
+<graph edgedefault="directed"><node id="clouds">
+  <data key="d0">3681759</data>
+  <data key="d1">obj</data>
+</node>
+<node id="window">
+  <data key="d0">3008434</data>
+  <data key="d1">obj</data>
+</node>
+<node id="airplane">
+  <data key="d0">3155542</data>
+  <data key="d1">obj</data>
+</node>
+<node id="windshield">
+  <data key="d0">3401907</data>
+  <data key="d1">obj</data>
+</node>
+<node id="propeller">
+  <data key="d0">2919553</data>
+  <data key="d1">obj</data>
+</node>
+<node id="large_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="white_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="still_attr">
+  <data key="d1">attr</data>
+</node>
+<edge source="window" target="propeller" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="airplane" target="clouds" id="0">
+  <data key="d2">below</data>
+</edge>
+<edge source="windshield" target="propeller" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="propeller" target="window" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="propeller" target="windshield" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="propeller" target="large_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="propeller" target="white_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="propeller" target="still_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+</graph></graphml>

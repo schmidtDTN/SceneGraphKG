@@ -1,0 +1,214 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="id" attr.type="string"/>
+<graph edgedefault="directed"><node id="door">
+  <data key="d0">1344357</data>
+  <data key="d1">obj</data>
+</node>
+<node id="faucet">
+  <data key="d0">1344355</data>
+  <data key="d1">obj</data>
+</node>
+<node id="sink">
+  <data key="d0">1344354</data>
+  <data key="d1">obj</data>
+</node>
+<node id="frame">
+  <data key="d0">1344362</data>
+  <data key="d1">obj</data>
+</node>
+<node id="bathtub">
+  <data key="d0">1344374</data>
+  <data key="d1">obj</data>
+</node>
+<node id="mirror">
+  <data key="d0">1344360</data>
+  <data key="d1">obj</data>
+</node>
+<node id="bathroom">
+  <data key="d0">1344366</data>
+  <data key="d1">obj</data>
+</node>
+<node id="wall">
+  <data key="d0">1344367</data>
+  <data key="d1">obj</data>
+</node>
+<node id="wallpaper">
+  <data key="d0">1344373</data>
+  <data key="d1">obj</data>
+</node>
+<node id="door_2"/>
+<node id="door_1">
+  <data key="d0">1344371</data>
+  <data key="d1">obj</data>
+</node>
+<node id="white_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="open_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="metal_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="silver_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="porcelain_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="wood_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="hanging_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="brown_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="reflected_attr">
+  <data key="d1">attr</data>
+</node>
+<edge source="door" target="wall" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="door" target="door_1" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="door" target="frame" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="door" target="sink" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="door" target="faucet" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="door" target="wallpaper" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="door" target="mirror" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="door" target="white_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="door" target="open_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="faucet" target="door" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="faucet" target="metal_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="faucet" target="silver_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="sink" target="door" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="sink" target="bathtub" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="sink" target="frame" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="sink" target="bathroom" id="0">
+  <data key="d2">in</data>
+</edge>
+<edge source="sink" target="porcelain_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="sink" target="white_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="frame" target="wall" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="frame" target="bathroom" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="frame" target="sink" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="frame" target="bathtub" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="frame" target="door" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="frame" target="wallpaper" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="frame" target="white_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="frame" target="wood_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="bathtub" target="wall" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="bathtub" target="wallpaper" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="bathtub" target="sink" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="bathtub" target="frame" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="bathtub" target="white_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="mirror" target="door" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="mirror" target="wall" id="0">
+  <data key="d2">hanging on</data>
+</edge>
+<edge source="mirror" target="hanging_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="bathroom" target="frame" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="bathroom" target="wallpaper" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="wall" target="door" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="wall" target="frame" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="wall" target="bathtub" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="wall" target="brown_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="wallpaper" target="bathtub" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="wallpaper" target="frame" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="wallpaper" target="bathroom" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="wallpaper" target="door" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="wallpaper" target="white_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="door_1" target="door" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="door_1" target="reflected_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+</graph></graphml>

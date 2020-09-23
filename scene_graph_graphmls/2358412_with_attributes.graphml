@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="id" attr.type="string"/>
+<graph edgedefault="directed"><node id="horse">
+  <data key="d0">802992</data>
+  <data key="d1">obj</data>
+</node>
+<node id="hill">
+  <data key="d0">802993</data>
+  <data key="d1">obj</data>
+</node>
+<node id="horse_2">
+  <data key="d0">802996</data>
+  <data key="d1">obj</data>
+</node>
+<node id="horse_3"/>
+<node id="path">
+  <data key="d0">802997</data>
+  <data key="d1">obj</data>
+</node>
+<node id="sky">
+  <data key="d0">803009</data>
+  <data key="d1">obj</data>
+</node>
+<node id="tail">
+  <data key="d0">803008</data>
+  <data key="d1">obj</data>
+</node>
+<node id="leg">
+  <data key="d0">803007</data>
+  <data key="d1">obj</data>
+</node>
+<node id="leg_4"/>
+<node id="horse_5"/>
+<node id="tail_6"/>
+<node id="mane">
+  <data key="d0">803002</data>
+  <data key="d1">obj</data>
+</node>
+<node id="grass">
+  <data key="d0">803001</data>
+  <data key="d1">obj</data>
+</node>
+<node id="horse_7"/>
+<node id="fence post">
+  <data key="d0">803010</data>
+  <data key="d1">obj</data>
+</node>
+<node id="horse_1">
+  <data key="d0">802991</data>
+  <data key="d1">obj</data>
+</node>
+<node id="horse_6">
+  <data key="d0">802994</data>
+  <data key="d1">obj</data>
+</node>
+<node id="horse_4">
+  <data key="d0">802995</data>
+  <data key="d1">obj</data>
+</node>
+<node id="leg_3">
+  <data key="d0">803006</data>
+  <data key="d1">obj</data>
+</node>
+<node id="tail_5">
+  <data key="d0">803003</data>
+  <data key="d1">obj</data>
+</node>
+<node id="black_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="sunny_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="grassy_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="standing_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="brown_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="grazing_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="cloudy_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="blowing_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="green_attr">
+  <data key="d1">attr</data>
+</node>
+<node id="wood_attr">
+  <data key="d1">attr</data>
+</node>
+<edge source="horse" target="path" id="0">
+  <data key="d2">standing on</data>
+</edge>
+<edge source="horse" target="hill" id="0">
+  <data key="d2">walking on</data>
+</edge>
+<edge source="horse" target="hill" id="1">
+  <data key="d2">on the side of</data>
+</edge>
+<edge source="horse" target="hill" id="2">
+  <data key="d2">on top of</data>
+</edge>
+<edge source="horse" target="hill" id="3">
+  <data key="d2">grazing on</data>
+</edge>
+<edge source="horse" target="black_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="hill" target="grass" id="0">
+  <data key="d2">covered in</data>
+</edge>
+<edge source="hill" target="sunny_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="hill" target="grassy_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="horse_2" target="hill" id="0">
+  <data key="d2">on the side of</data>
+</edge>
+<edge source="horse_2" target="hill" id="1">
+  <data key="d2">grazing on</data>
+</edge>
+<edge source="horse_2" target="hill" id="2">
+  <data key="d2">on top of</data>
+</edge>
+<edge source="horse_2" target="hill" id="3">
+  <data key="d2">walking on</data>
+</edge>
+<edge source="horse_2" target="horse_4" id="0">
+  <data key="d2">near</data>
+</edge>
+<edge source="horse_2" target="horse_6" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="horse_2" target="brown_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="path" target="fence post" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="path" target="hill" id="0">
+  <data key="d2">on top of</data>
+</edge>
+<edge source="sky" target="hill" id="0">
+  <data key="d2">above</data>
+</edge>
+<edge source="sky" target="cloudy_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="tail" target="horse_6" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="tail" target="blowing_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="leg" target="leg_3" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="mane" target="horse_6" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="mane" target="tail_5" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="mane" target="black_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="grass" target="hill" id="0">
+  <data key="d2">growing on</data>
+</edge>
+<edge source="grass" target="green_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="fence post" target="grass" id="0">
+  <data key="d2">stuck in</data>
+</edge>
+<edge source="fence post" target="hill" id="0">
+  <data key="d2">on the side of</data>
+</edge>
+<edge source="fence post" target="path" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="fence post" target="wood_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="horse_1" target="horse_6" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="horse_1" target="grass" id="0">
+  <data key="d2">eating</data>
+</edge>
+<edge source="horse_1" target="grass" id="1">
+  <data key="d2">grazing on</data>
+</edge>
+<edge source="horse_1" target="standing_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="horse_1" target="brown_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="horse_1" target="grazing_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="horse_6" target="hill" id="0">
+  <data key="d2">on top of</data>
+</edge>
+<edge source="horse_6" target="hill" id="1">
+  <data key="d2">on the side of</data>
+</edge>
+<edge source="horse_6" target="hill" id="2">
+  <data key="d2">grazing on</data>
+</edge>
+<edge source="horse_6" target="hill" id="3">
+  <data key="d2">walking on</data>
+</edge>
+<edge source="horse_6" target="tail" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="horse_6" target="tail_5" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="horse_6" target="mane" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="horse_6" target="horse_1" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="horse_6" target="horse_2" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="horse_6" target="horse_4" id="0">
+  <data key="d2">to the left of</data>
+</edge>
+<edge source="horse_6" target="brown_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="horse_6" target="grazing_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="horse_4" target="horse_6" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="horse_4" target="hill" id="0">
+  <data key="d2">on top of</data>
+</edge>
+<edge source="horse_4" target="hill" id="1">
+  <data key="d2">on the side of</data>
+</edge>
+<edge source="horse_4" target="hill" id="2">
+  <data key="d2">grazing on</data>
+</edge>
+<edge source="horse_4" target="hill" id="3">
+  <data key="d2">walking on</data>
+</edge>
+<edge source="horse_4" target="horse_2" id="0">
+  <data key="d2">next to</data>
+</edge>
+<edge source="horse_4" target="brown_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+<edge source="leg_3" target="leg" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="tail_5" target="horse_6" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="tail_5" target="mane" id="0">
+  <data key="d2">to the right of</data>
+</edge>
+<edge source="tail_5" target="black_attr" id="0">
+  <data key="d2">has_attribute</data>
+</edge>
+</graph></graphml>

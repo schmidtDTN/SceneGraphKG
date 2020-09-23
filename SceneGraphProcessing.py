@@ -1,7 +1,7 @@
 import networkx
 from QuestionHandling import *
 
-scene_graph_file = "2377804_scene_graph.graphml"
+scene_graph_file = "2377804_with_attributes.graphml"
 existence_keyword = "exists"
 relation_keyword = "relation"
 attribute_keyword = "attribute"
@@ -53,24 +53,27 @@ def main():
     contextGappedNodes = contextGapCheck(sceneGraph)
     # Get user query.  Eventually need to add attribute handling when attributes are available.
     userQuery = input("Please enter a query in the format KEYWORD(arguments), with the following options: \n " +
-          existence_keyword + "(object) \n" + relation_keyword + "(relationString,object1,object2) \n")
-    # Break query up into relevant parts
-    queryType = userQuery.split('(', 1)[0]
-    queryContents = userQuery.split('(', 1)[1]
-    # Handle the exists(object) case
-    if queryType == existence_keyword:
-        itemExistenceQuery(queryContents, sceneGraph)
-        pass
-    # Handle the relation(object1,object2) case
-    if queryType == relation_keyword:
-        relationQueryHandler(queryContents, sceneGraph)
-        pass
-    # Handle the attribute case - NOT PRESENT
-    if queryType == attribute_keyword:
-        # ATTRIBUTE CASE
-        pass
-
-    print(sceneGraph)
+          existence_keyword + "(object) \n" + relation_keyword + "(relationString,object1,object2) \n"
+                      + attribute_keyword + "(attribute,object) \n")
+    while userQuery != 'q' and userQuery != 'exit' and userQuery != 'quit':
+        # Break query up into relevant parts
+        queryType = userQuery.split('(', 1)[0]
+        queryContents = userQuery.split('(', 1)[1]
+        # Handle the exists(object) case
+        if queryType == existence_keyword:
+            itemExistenceQuery(queryContents, sceneGraph)
+            pass
+        # Handle the relation(object1,object2) case
+        if queryType == relation_keyword:
+            relationQueryHandler(queryContents, sceneGraph)
+            pass
+        # Handle the attribute case - NOT PRESENT
+        if queryType == attribute_keyword:
+            # ATTRIBUTE CASE
+            attributeQueryHandler(queryContents, sceneGraph)
+        userQuery = input("Please enter a query in the format KEYWORD(arguments), with the following options: \n " +
+                          existence_keyword + "(object) \n" + relation_keyword + "(relationString,object1,object2) \n"
+                          + attribute_keyword + "(attribute,object) \n")
 
 
 main()

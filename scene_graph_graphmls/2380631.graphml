@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="door"/>
+<node id="faucet"/>
+<node id="sink"/>
+<node id="frame"/>
+<node id="bathtub"/>
+<node id="mirror"/>
+<node id="bathroom"/>
+<node id="wall"/>
+<node id="wallpaper"/>
+<node id="door_2"/>
+<node id="door_1"/>
+<edge source="door" target="wall" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="door" target="door_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="door" target="frame" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="door" target="sink" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="door" target="faucet" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="door" target="wallpaper" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="door" target="mirror" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="faucet" target="door" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="sink" target="door" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="sink" target="bathtub" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="sink" target="frame" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="sink" target="bathroom" id="0">
+  <data key="d0">in</data>
+</edge>
+<edge source="frame" target="wall" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="frame" target="bathroom" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="frame" target="sink" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="frame" target="bathtub" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="frame" target="door" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="frame" target="wallpaper" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="bathtub" target="wall" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="bathtub" target="wallpaper" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="bathtub" target="sink" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="bathtub" target="frame" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="mirror" target="door" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="mirror" target="wall" id="0">
+  <data key="d0">hanging on</data>
+</edge>
+<edge source="bathroom" target="frame" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="bathroom" target="wallpaper" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="wall" target="door" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="wall" target="frame" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="wall" target="bathtub" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="wallpaper" target="bathtub" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="wallpaper" target="frame" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="wallpaper" target="bathroom" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="wallpaper" target="door" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="door_1" target="door" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+</graph></graphml>

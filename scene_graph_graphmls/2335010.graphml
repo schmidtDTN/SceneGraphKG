@@ -1,0 +1,425 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="cake"/>
+<node id="man"/>
+<node id="post"/>
+<node id="woman"/>
+<node id="strawberries"/>
+<node id="blueberries"/>
+<node id="cupcakes"/>
+<node id="sidewalk"/>
+<node id="car"/>
+<node id="cell phone"/>
+<node id="window"/>
+<node id="pie"/>
+<node id="sign"/>
+<node id="cookies"/>
+<node id="shelf"/>
+<node id="sugar"/>
+<node id="desserts"/>
+<node id="cream"/>
+<node id="building"/>
+<node id="table"/>
+<node id="trays"/>
+<node id="brownies"/>
+<node id="jacket"/>
+<node id="backpack"/>
+<node id="plant"/>
+<node id="traffic lights"/>
+<node id="tables"/>
+<node id="cherries"/>
+<node id="window_2"/>
+<node id="crust"/>
+<node id="muffins"/>
+<node id="window_1"/>
+<edge source="man" target="backpack" id="0">
+  <data key="d0">wearing</data>
+</edge>
+<edge source="man" target="cookies" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man" target="sidewalk" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man" target="jacket" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man" target="woman" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man" target="post" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="post" target="cell phone" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="post" target="car" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="post" target="window" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="post" target="jacket" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="post" target="cookies" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="post" target="plant" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="post" target="backpack" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="post" target="window_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="post" target="traffic lights" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="post" target="woman" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="post" target="man" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="woman" target="window" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="woman" target="cookies" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="woman" target="window_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="woman" target="building" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="woman" target="traffic lights" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="woman" target="backpack" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="woman" target="man" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="woman" target="post" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="woman" target="sidewalk" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="woman" target="car" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="woman" target="cell phone" id="0">
+  <data key="d0">talking on</data>
+</edge>
+<edge source="strawberries" target="cherries" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="strawberries" target="cream" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="strawberries" target="cupcakes" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="blueberries" target="desserts" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="blueberries" target="cupcakes" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="blueberries" target="trays" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="blueberries" target="cherries" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="blueberries" target="cream" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cupcakes" target="trays" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cupcakes" target="cream" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cupcakes" target="tables" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cupcakes" target="strawberries" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cupcakes" target="blueberries" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cupcakes" target="desserts" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="sidewalk" target="car" id="0">
+  <data key="d0">near</data>
+</edge>
+<edge source="sidewalk" target="car" id="1">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="sidewalk" target="jacket" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="sidewalk" target="plant" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="sidewalk" target="woman" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="sidewalk" target="man" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="sidewalk" target="backpack" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="car" target="sidewalk" id="0">
+  <data key="d0">near</data>
+</edge>
+<edge source="car" target="sidewalk" id="1">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="car" target="woman" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="car" target="post" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="car" target="jacket" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cell phone" target="post" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cell phone" target="building" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cell phone" target="window_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="window" target="jacket" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="window" target="woman" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="window" target="post" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="pie" target="brownies" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="sign" target="muffins" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="sign" target="crust" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cookies" target="post" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cookies" target="woman" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cookies" target="man" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cookies" target="jacket" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cookies" target="plant" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="shelf" target="sugar" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="sugar" target="shelf" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="desserts" target="cupcakes" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="desserts" target="blueberries" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="desserts" target="tables" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="desserts" target="cream" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="desserts" target="trays" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="desserts" target="cherries" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cream" target="trays" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cream" target="desserts" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cream" target="tables" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cream" target="strawberries" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cream" target="blueberries" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cream" target="cupcakes" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cream" target="cherries" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building" target="jacket" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building" target="cell phone" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building" target="woman" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="table" target="plant" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="trays" target="cupcakes" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="trays" target="blueberries" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="trays" target="cherries" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="trays" target="cream" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="trays" target="desserts" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="brownies" target="pie" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="jacket" target="man" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jacket" target="traffic lights" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jacket" target="sidewalk" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jacket" target="window_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jacket" target="car" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jacket" target="post" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jacket" target="cookies" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jacket" target="window" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jacket" target="building" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="jacket" target="backpack" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="backpack" target="jacket" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="backpack" target="post" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="backpack" target="woman" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="backpack" target="sidewalk" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="plant" target="sidewalk" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="plant" target="post" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="plant" target="table" id="0">
+  <data key="d0">on</data>
+</edge>
+<edge source="plant" target="table" id="1">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="plant" target="cookies" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="plant" target="brownies" id="0">
+  <data key="d0">of</data>
+</edge>
+<edge source="traffic lights" target="jacket" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="traffic lights" target="woman" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="traffic lights" target="post" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="tables" target="cupcakes" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="tables" target="desserts" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="tables" target="cream" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cherries" target="trays" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cherries" target="desserts" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cherries" target="cream" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cherries" target="strawberries" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cherries" target="blueberries" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="crust" target="sign" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="muffins" target="sign" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="window_1" target="post" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="window_1" target="cell phone" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="window_1" target="woman" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="window_1" target="jacket" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+</graph></graphml>

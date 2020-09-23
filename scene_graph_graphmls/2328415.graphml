@@ -1,0 +1,1360 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="dock"/>
+<node id="cell phone"/>
+<node id="wire"/>
+<node id="building"/>
+<node id="keyboard"/>
+<node id="computer"/>
+<node id="screen"/>
+<node id="player"/>
+<node id="monitor"/>
+<node id="desk"/>
+<node id="phone"/>
+<node id="keyboard_2"/>
+<node id="monitors"/>
+<node id="coffee mug"/>
+<node id="keyboard_3"/>
+<node id="box"/>
+<node id="apple"/>
+<node id="keyboard_4"/>
+<node id="keyboard_5"/>
+<node id="computer monitor"/>
+<node id="speaker"/>
+<node id="building_6"/>
+<node id="building_7"/>
+<node id="building_8"/>
+<node id="screen_9"/>
+<node id="computer monitor_10"/>
+<node id="charger"/>
+<node id="wall"/>
+<node id="phone_11"/>
+<node id="box_12"/>
+<node id="screen_13"/>
+<node id="screen_14"/>
+<node id="mouse pad"/>
+<node id="computer mouse"/>
+<node id="computer mouse_15"/>
+<node id="computer monitor_16"/>
+<node id="mouse pad_17"/>
+<node id="building_18"/>
+<node id="coffee mug_19"/>
+<node id="coffee cup"/>
+<node id="wall_20"/>
+<node id="mouse pad_21"/>
+<node id="computer mouse_22"/>
+<node id="cup"/>
+<node id="water"/>
+<node id="screen_23"/>
+<node id="computer monitor_24"/>
+<node id="table"/>
+<node id="wall_25"/>
+<node id="computer mouse_26"/>
+<node id="computer monitor_27"/>
+<node id="screen_28"/>
+<node id="keyboard_29"/>
+<node id="keyboard_30"/>
+<node id="computer mouse_31"/>
+<node id="mouse pad_32"/>
+<node id="man"/>
+<node id="screen_22"/>
+<node id="coffee mug_18"/>
+<node id="computer monitor_15"/>
+<node id="building_17"/>
+<node id="building_5"/>
+<node id="screen_8"/>
+<node id="computer monitor_26"/>
+<node id="mouse pad_20"/>
+<node id="computer mouse_21"/>
+<node id="computer mouse_14"/>
+<node id="mouse pad_16"/>
+<node id="computer mouse_25"/>
+<node id="mouse pad_31"/>
+<node id="computer mouse_30"/>
+<node id="box_11"/>
+<node id="computer monitor_9"/>
+<node id="screen_12"/>
+<node id="computer monitor_23"/>
+<node id="screen_27"/>
+<node id="keyboard_1"/>
+<node id="phone_10"/>
+<node id="keyboard_28"/>
+<edge source="dock" target="speaker" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="dock" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="dock" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="dock" target="box" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="cell phone" target="speaker" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="wire" target="coffee mug_18" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="wire" target="cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="wire" target="player" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="wire" target="coffee cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="wire" target="coffee mug" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="wire" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building" target="building_17" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building" target="building_5" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building" target="building_6" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building" target="screen_8" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building" target="computer monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building" target="building_7" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building" target="computer monitor_26" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="keyboard" target="mouse pad_20" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard" target="computer mouse_21" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard" target="computer mouse_14" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard" target="mouse pad_16" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard" target="computer mouse" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard" target="computer mouse_25" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard" target="man" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard" target="mouse pad" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard" target="mouse pad_31" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard" target="computer mouse_30" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer" target="coffee cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer" target="computer monitor_26" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer" target="water" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer" target="cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer" target="coffee mug_18" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer" target="screen_8" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer" target="coffee mug" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer" target="computer monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="player" target="box_11" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="player" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="player" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="player" target="wire" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="player" target="computer monitor_26" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="player" target="box" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="monitor" target="building_5" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="monitor" target="computer" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="monitor" target="computer monitor_9" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="monitor" target="building_6" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="monitor" target="box_11" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="monitor" target="screen_12" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="monitor" target="computer monitor_23" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="monitor" target="box" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="monitor" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="monitor" target="screen_27" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="monitor" target="building" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="monitor" target="building_7" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="phone" target="box" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="phone" target="dock" id="0">
+  <data key="d0">on</data>
+</edge>
+<edge source="phone" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="phone" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="phone" target="speaker" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_2" target="mouse pad_31" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_2" target="mouse pad" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_2" target="man" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_2" target="computer mouse_21" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_2" target="mouse pad_20" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_2" target="mouse pad_16" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_2" target="computer mouse_14" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_2" target="computer mouse_25" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_2" target="computer mouse_30" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_2" target="computer mouse" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="monitors" target="desk" id="0">
+  <data key="d0">on</data>
+</edge>
+<edge source="coffee mug" target="computer" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee mug" target="wire" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee mug" target="apple" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee mug" target="box" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee mug" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee mug" target="box_11" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="keyboard_3" target="computer mouse_30" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_3" target="mouse pad_20" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_3" target="mouse pad_16" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_3" target="computer mouse_21" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_3" target="computer mouse_14" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_3" target="mouse pad" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_3" target="computer mouse" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_3" target="mouse pad_31" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_3" target="computer mouse_25" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box" target="player" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="box" target="cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box" target="coffee mug_18" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box" target="phone" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="box" target="coffee mug" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="box" target="computer monitor_9" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="box" target="dock" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="box" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box" target="charger" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="box" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box" target="coffee cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="apple" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="apple" target="coffee mug" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="apple" target="computer monitor_9" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="apple" target="coffee mug_18" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="apple" target="coffee cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="apple" target="cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_4" target="mouse pad_31" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_4" target="computer mouse" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_4" target="computer mouse_25" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_4" target="man" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_4" target="mouse pad" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_4" target="computer mouse_14" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_4" target="mouse pad_16" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_4" target="computer mouse_30" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_4" target="mouse pad_20" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_4" target="computer mouse_21" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor" target="computer" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor" target="computer monitor_23" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor" target="building" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor" target="screen_12" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor" target="computer monitor_9" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor" target="screen_27" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor" target="building_5" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor" target="building_6" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor" target="building_7" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="speaker" target="coffee cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="speaker" target="charger" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="speaker" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="speaker" target="box_11" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="speaker" target="coffee mug_18" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="speaker" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="speaker" target="wire" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="speaker" target="computer monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="speaker" target="apple" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="speaker" target="cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="speaker" target="computer monitor_26" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="speaker" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="speaker" target="cell phone" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="speaker" target="phone_10" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="speaker" target="dock" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="speaker" target="screen_8" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="speaker" target="phone" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="speaker" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="speaker" target="box" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="speaker" target="coffee mug" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_6" target="computer monitor_26" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_6" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_6" target="building_17" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_6" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_6" target="building" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_6" target="screen_8" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_6" target="building_5" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_6" target="building_7" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_6" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_6" target="computer monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_7" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_7" target="building_17" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_7" target="computer monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_7" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_7" target="building" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_7" target="screen_8" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_7" target="building_6" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_7" target="building_5" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="charger" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="charger" target="box" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="charger" target="speaker" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="player" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="building_6" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="building_5" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="computer monitor_9" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="screen_12" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="computer" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="dock" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="phone" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="screen_27" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="computer monitor_23" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="speaker" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="building_17" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_13" target="building" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="mouse pad" target="keyboard_29" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad" target="keyboard" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad" target="keyboard_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad" target="keyboard_2" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad" target="keyboard_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad" target="keyboard_3" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad" target="keyboard_28" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse" target="mouse pad" id="0">
+  <data key="d0">on</data>
+</edge>
+<edge source="computer mouse" target="keyboard_29" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse" target="keyboard_3" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse" target="keyboard_28" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse" target="keyboard" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse" target="keyboard_2" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse" target="keyboard_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse" target="keyboard_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse" target="man" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee cup" target="box_11" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee cup" target="computer monitor_9" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee cup" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee cup" target="computer" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee cup" target="apple" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee cup" target="box" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee cup" target="wire" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cup" target="computer" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cup" target="box" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cup" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cup" target="computer monitor_9" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cup" target="apple" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cup" target="wire" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="cup" target="box_11" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="water" target="screen_27" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="water" target="computer monitor_9" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="water" target="screen_12" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="water" target="computer" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="water" target="computer monitor_23" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_29" target="mouse pad_20" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_29" target="computer mouse_21" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_29" target="computer mouse" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_29" target="computer mouse_25" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_29" target="mouse pad_31" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_29" target="mouse pad" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_29" target="computer mouse_14" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_29" target="mouse pad_16" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_29" target="computer mouse_30" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man" target="mouse pad_31" id="0">
+  <data key="d0">on</data>
+</edge>
+<edge source="man" target="keyboard" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="man" target="keyboard_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="man" target="computer mouse_14" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man" target="computer mouse" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man" target="keyboard_2" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_22" target="building" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="screen_12" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="charger" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="phone_10" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="computer monitor_9" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="computer monitor_23" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="building_17" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="dock" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="screen_27" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="building_5" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="player" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="computer" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="speaker" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_22" target="phone" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="coffee mug_18" target="apple" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee mug_18" target="box" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee mug_18" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee mug_18" target="computer" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee mug_18" target="wire" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="coffee mug_18" target="box_11" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="building_7" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="building" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="computer monitor_9" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="computer" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="computer monitor_23" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="screen_12" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="screen_27" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="building_5" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="building_6" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="box" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_15" target="box_11" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_17" target="computer monitor_26" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_17" target="building_6" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_17" target="building_7" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_17" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_17" target="building_5" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_17" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_17" target="building" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_5" target="building_17" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_5" target="building" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_5" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_5" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_5" target="computer monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_5" target="building_7" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_5" target="computer monitor_26" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_5" target="building_6" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_5" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="building_5" target="screen_8" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="building_5" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_8" target="building_6" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_8" target="building_5" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_8" target="computer" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_8" target="computer monitor_23" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_8" target="building_7" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_8" target="building" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_8" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_8" target="screen_27" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_8" target="box_11" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_8" target="computer monitor_9" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_8" target="screen_12" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_26" target="player" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_26" target="computer" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_26" target="computer monitor_23" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_26" target="building_6" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_26" target="building_5" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_26" target="building" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_26" target="building_17" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_26" target="speaker" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_26" target="screen_27" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_26" target="computer monitor_9" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_26" target="screen_12" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="mouse pad_20" target="keyboard_29" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_20" target="keyboard_2" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_20" target="keyboard_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_20" target="keyboard" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_20" target="keyboard_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_20" target="keyboard_3" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_20" target="keyboard_28" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_21" target="keyboard_29" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_21" target="mouse pad_20" id="0">
+  <data key="d0">on</data>
+</edge>
+<edge source="computer mouse_21" target="keyboard_3" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_21" target="keyboard_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_21" target="keyboard" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_21" target="keyboard_28" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_21" target="keyboard_2" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_21" target="keyboard_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_14" target="keyboard_3" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_14" target="keyboard_28" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_14" target="keyboard_2" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_14" target="keyboard_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_14" target="keyboard" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_14" target="keyboard_29" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_14" target="keyboard_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_14" target="man" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_16" target="keyboard_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_16" target="keyboard_2" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_16" target="keyboard_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_16" target="keyboard" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_16" target="keyboard_28" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_16" target="keyboard_29" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_16" target="keyboard_3" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_25" target="keyboard_29" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_25" target="keyboard_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_25" target="keyboard_2" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_25" target="keyboard_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_25" target="keyboard" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_25" target="keyboard_28" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_25" target="keyboard_3" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_31" target="keyboard_29" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_31" target="keyboard" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_31" target="keyboard_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_31" target="keyboard_2" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_31" target="keyboard_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_31" target="keyboard_3" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mouse pad_31" target="keyboard_28" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_30" target="mouse pad_16" id="0">
+  <data key="d0">sitting on top of</data>
+</edge>
+<edge source="computer mouse_30" target="keyboard_28" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_30" target="keyboard_3" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_30" target="keyboard_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_30" target="keyboard_2" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_30" target="keyboard_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_30" target="keyboard" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer mouse_30" target="keyboard_29" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="box_11" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box_11" target="screen_8" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box_11" target="computer monitor_9" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="box_11" target="coffee mug" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box_11" target="speaker" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="box_11" target="player" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="box_11" target="coffee cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box_11" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box_11" target="coffee mug_18" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="box_11" target="cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_9" target="coffee cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_9" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_9" target="screen_8" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_9" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_9" target="box_11" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_9" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_9" target="box" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_9" target="apple" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_9" target="computer monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_9" target="water" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_9" target="cup" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_9" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_9" target="computer monitor_26" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_12" target="water" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_12" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_12" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_12" target="computer monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_12" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_12" target="computer monitor_26" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_12" target="screen_8" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_12" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_23" target="computer monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_23" target="screen_8" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_23" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_23" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="computer monitor_23" target="water" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_23" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_23" target="computer monitor_26" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="computer monitor_23" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_27" target="screen_13" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_27" target="screen_8" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_27" target="computer monitor_15" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_27" target="computer monitor_26" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_27" target="water" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_27" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="screen_27" target="monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="screen_27" target="computer monitor" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_1" target="mouse pad" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_1" target="computer mouse" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_1" target="mouse pad_31" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_1" target="mouse pad_20" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_1" target="computer mouse_30" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_1" target="mouse pad_16" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_1" target="computer mouse_21" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_1" target="computer mouse_25" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_1" target="computer mouse_14" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="phone_10" target="speaker" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="phone_10" target="screen_22" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="keyboard_28" target="computer mouse_21" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_28" target="computer mouse_14" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_28" target="computer mouse_25" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_28" target="mouse pad_16" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_28" target="mouse pad_31" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_28" target="mouse pad_20" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_28" target="computer mouse_30" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_28" target="mouse pad" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="keyboard_28" target="computer mouse" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="clouds"/>
+<node id="window"/>
+<node id="airplane"/>
+<node id="windshield"/>
+<node id="propeller"/>
+<edge source="window" target="propeller" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="airplane" target="clouds" id="0">
+  <data key="d0">below</data>
+</edge>
+<edge source="windshield" target="propeller" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="propeller" target="window" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="propeller" target="windshield" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+</graph></graphml>

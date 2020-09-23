@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="face"/>
+<node id="hair"/>
+<node id="shirt"/>
+<node id="eye"/>
+<node id="arm"/>
+<node id="phone"/>
+<node id="sweatshirt"/>
+<node id="man"/>
+<node id="straw"/>
+<node id="person"/>
+<node id="glasses"/>
+<node id="hand"/>
+<node id="hair_2"/>
+<node id="man_3"/>
+<node id="drink"/>
+<node id="blazer"/>
+<node id="person_4"/>
+<node id="nose"/>
+<node id="hand_5"/>
+<node id="man_6"/>
+<node id="head"/>
+<node id="man_5"/>
+<node id="hand_4"/>
+<node id="man_2"/>
+<node id="hair_1"/>
+<node id="person_3"/>
+<edge source="face" target="glasses" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="hair" target="man_5" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hair" target="phone" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hair" target="hand_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="shirt" target="hand_4" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="shirt" target="person" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="shirt" target="arm" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="eye" target="nose" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="arm" target="shirt" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="arm" target="man_5" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="arm" target="blazer" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="phone" target="glasses" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="phone" target="hair" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="phone" target="hand" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="phone" target="man_2" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="sweatshirt" target="man_5" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="sweatshirt" target="blazer" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="sweatshirt" target="man_2" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man" target="hand" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="man" target="man_5" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="man" target="blazer" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="man" target="sweatshirt" id="0">
+  <data key="d0">wearing</data>
+</edge>
+<edge source="straw" target="man_5" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="straw" target="blazer" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="person" target="shirt" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="person" target="drink" id="0">
+  <data key="d0">holding</data>
+</edge>
+<edge source="glasses" target="face" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="glasses" target="phone" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="glasses" target="hand_4" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="glasses" target="head" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hand" target="hand_4" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="hand" target="man" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="hand" target="phone" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="blazer" target="straw" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="blazer" target="man_2" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="blazer" target="arm" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="blazer" target="sweatshirt" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="blazer" target="man" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="nose" target="eye" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="nose" target="hair_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="head" target="glasses" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man_5" target="man_2" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man_5" target="blazer" id="0">
+  <data key="d0">wearing</data>
+</edge>
+<edge source="man_5" target="phone" id="0">
+  <data key="d0">holding</data>
+</edge>
+<edge source="man_5" target="phone" id="1">
+  <data key="d0">looking at</data>
+</edge>
+<edge source="man_5" target="glasses" id="0">
+  <data key="d0">holding</data>
+</edge>
+<edge source="man_5" target="shirt" id="0">
+  <data key="d0">wearing</data>
+</edge>
+<edge source="man_5" target="person_3" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man_5" target="man" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man_5" target="sweatshirt" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man_5" target="arm" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="man_5" target="hair" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="man_5" target="straw" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hand_4" target="hair" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="hand_4" target="man_2" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="hand_4" target="hand" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hand_4" target="glasses" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hand_4" target="shirt" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="man_2" target="phone" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="man_2" target="sweatshirt" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="man_2" target="man_5" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="man_2" target="hand_4" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="man_2" target="blazer" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="hair_1" target="nose" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="person_3" target="man_5" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+</graph></graphml>

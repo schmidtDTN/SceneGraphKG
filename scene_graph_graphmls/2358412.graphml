@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="horse"/>
+<node id="hill"/>
+<node id="horse_2"/>
+<node id="horse_3"/>
+<node id="path"/>
+<node id="sky"/>
+<node id="tail"/>
+<node id="leg"/>
+<node id="leg_4"/>
+<node id="horse_5"/>
+<node id="tail_6"/>
+<node id="mane"/>
+<node id="grass"/>
+<node id="horse_7"/>
+<node id="fence post"/>
+<node id="horse_1"/>
+<node id="horse_6"/>
+<node id="horse_4"/>
+<node id="leg_3"/>
+<node id="tail_5"/>
+<edge source="horse" target="path" id="0">
+  <data key="d0">standing on</data>
+</edge>
+<edge source="horse" target="hill" id="0">
+  <data key="d0">walking on</data>
+</edge>
+<edge source="horse" target="hill" id="1">
+  <data key="d0">on the side of</data>
+</edge>
+<edge source="horse" target="hill" id="2">
+  <data key="d0">on top of</data>
+</edge>
+<edge source="horse" target="hill" id="3">
+  <data key="d0">grazing on</data>
+</edge>
+<edge source="hill" target="grass" id="0">
+  <data key="d0">covered in</data>
+</edge>
+<edge source="horse_2" target="hill" id="0">
+  <data key="d0">on the side of</data>
+</edge>
+<edge source="horse_2" target="hill" id="1">
+  <data key="d0">grazing on</data>
+</edge>
+<edge source="horse_2" target="hill" id="2">
+  <data key="d0">on top of</data>
+</edge>
+<edge source="horse_2" target="hill" id="3">
+  <data key="d0">walking on</data>
+</edge>
+<edge source="horse_2" target="horse_4" id="0">
+  <data key="d0">near</data>
+</edge>
+<edge source="horse_2" target="horse_6" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="path" target="fence post" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="path" target="hill" id="0">
+  <data key="d0">on top of</data>
+</edge>
+<edge source="sky" target="hill" id="0">
+  <data key="d0">above</data>
+</edge>
+<edge source="tail" target="horse_6" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="leg" target="leg_3" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="mane" target="horse_6" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="mane" target="tail_5" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="grass" target="hill" id="0">
+  <data key="d0">growing on</data>
+</edge>
+<edge source="fence post" target="grass" id="0">
+  <data key="d0">stuck in</data>
+</edge>
+<edge source="fence post" target="hill" id="0">
+  <data key="d0">on the side of</data>
+</edge>
+<edge source="fence post" target="path" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="horse_1" target="horse_6" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="horse_1" target="grass" id="0">
+  <data key="d0">eating</data>
+</edge>
+<edge source="horse_1" target="grass" id="1">
+  <data key="d0">grazing on</data>
+</edge>
+<edge source="horse_6" target="hill" id="0">
+  <data key="d0">on top of</data>
+</edge>
+<edge source="horse_6" target="hill" id="1">
+  <data key="d0">on the side of</data>
+</edge>
+<edge source="horse_6" target="hill" id="2">
+  <data key="d0">grazing on</data>
+</edge>
+<edge source="horse_6" target="hill" id="3">
+  <data key="d0">walking on</data>
+</edge>
+<edge source="horse_6" target="tail" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="horse_6" target="tail_5" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="horse_6" target="mane" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="horse_6" target="horse_1" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="horse_6" target="horse_2" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="horse_6" target="horse_4" id="0">
+  <data key="d0">to the left of</data>
+</edge>
+<edge source="horse_4" target="horse_6" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="horse_4" target="hill" id="0">
+  <data key="d0">on top of</data>
+</edge>
+<edge source="horse_4" target="hill" id="1">
+  <data key="d0">on the side of</data>
+</edge>
+<edge source="horse_4" target="hill" id="2">
+  <data key="d0">grazing on</data>
+</edge>
+<edge source="horse_4" target="hill" id="3">
+  <data key="d0">walking on</data>
+</edge>
+<edge source="horse_4" target="horse_2" id="0">
+  <data key="d0">next to</data>
+</edge>
+<edge source="leg_3" target="leg" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="tail_5" target="horse_6" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+<edge source="tail_5" target="mane" id="0">
+  <data key="d0">to the right of</data>
+</edge>
+</graph></graphml>

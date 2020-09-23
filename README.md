@@ -18,3 +18,23 @@ exists(bat) - Target Gap
 relation(to the left of,pants,bat) - Lexical Gap
 
 relation(to the right of,pants,bat) - Target Gap
+
+
+09-23-2020: Added non-yes/no queries about relations.  
+relation(?,o1,o2) - Return a list of all edges with o1 as source and o2 as target.
+relation(r1,?,o2) - Return a list of all sources with a relation r1 and target o2.
+relation(r1,o1,?) - Return a list of all targets with a relation r1 and source o2.
+
+Example phrases that will provide results:
+
+relation(?,pants,bat) - returns an answer
+
+relation(?,spectator,bat) - returns nothing
+
+relation(to the right of,spectator,?) - returns an answer
+
+relation(to the left of,spectator,?) - returns nothing
+
+relation(to the left of,?,spectator) - returns an answer
+
+relation(to the right of,?,spectator) - returns nothing
